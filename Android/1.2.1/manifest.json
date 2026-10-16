@@ -1,0 +1,126 @@
+{
+  "schema_version": 2,
+  "platform": "Android",
+  "architecture": "arm64-v8a",
+  "unity_version": "6000.3.20f1",
+  "code_base_id": "13fffa0f35394ddba419b335cc4c4703",
+  "files": [
+    {
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "kind": "bundle",
+      "size": 2534112,
+      "sha256": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7"
+    },
+    {
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "kind": "bundle",
+      "size": 59392,
+      "sha256": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294"
+    },
+    {
+      "path": "47092c84c6ec9d27972223741e6dcda605630b289b774f2109669323d583bbaa.bundle",
+      "kind": "bundle",
+      "size": 1207152,
+      "sha256": "47092c84c6ec9d27972223741e6dcda605630b289b774f2109669323d583bbaa"
+    },
+    {
+      "path": "9d81979c62706ecbac7b6cf2ae71aba2581065f125a2106670f22756acb190ed.bundle",
+      "kind": "bundle",
+      "size": 8148676,
+      "sha256": "9d81979c62706ecbac7b6cf2ae71aba2581065f125a2106670f22756acb190ed"
+    },
+    {
+      "path": "c2b34f15554fdd7f763cb866a2e4656b502bd0dcd82c1c0fa7f7aabed30b1e45.dll",
+      "kind": "assembly",
+      "size": 282624,
+      "sha256": "c2b34f15554fdd7f763cb866a2e4656b502bd0dcd82c1c0fa7f7aabed30b1e45"
+    }
+  ],
+  "assets": [
+    {
+      "key": "home/font",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/content/fonts/bold sdf.asset"
+    },
+    {
+      "key": "home/brand_image",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/textures/home/vora_home_brand.png"
+    },
+    {
+      "key": "home/headset_image",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/textures/home/vora_home_headset.png"
+    },
+    {
+      "key": "home/rounded_shader",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/materials/vrglass/vr_ui_roundedmask.shader"
+    },
+    {
+      "key": "home/account_icon",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/textures/home/person-circle.png"
+    },
+    {
+      "key": "home/survey_icon",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/textures/home/clipboard.png"
+    },
+    {
+      "key": "home/arrow_icon",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/textures/home/arrow-right.png"
+    },
+    {
+      "key": "home/tutorial_play_icon",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/content/textures/ui/vr_player_playicon.png"
+    },
+    {
+      "key": "home/artwork_shader",
+      "path": "32863ffdf8204e0c4dd3960871804771a9d71b8abc18392555316bff09a4aea7.bundle",
+      "asset_name": "assets/materials/ui/homeartwork.shader"
+    },
+    {
+      "key": "movie/center_board",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/prefabs/backgroundboardcenter.prefab"
+    },
+    {
+      "key": "movie/navigation",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/prefabs/backgroundboardleft.prefab"
+    },
+    {
+      "key": "movie/player",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/prefabs/videodetailpage.prefab"
+    },
+    {
+      "key": "movie/list",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/prefabs/videolistpage.prefab"
+    },
+    {
+      "key": "movie/card",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/prefabs/videolistmoviecard.prefab"
+    },
+    {
+      "key": "movie/browser_brightness_default",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/materials/browserbrightness/default.shader"
+    },
+    {
+      "key": "movie/browser_brightness_overlay",
+      "path": "bffe3718132624439eb8fb30a58c6337908a973f1b33560e17113a7f6ca4b294.bundle",
+      "asset_name": "assets/materials/browserbrightness/overlay.shader"
+    },
+    {
+      "key": "movie/cinema",
+      "path": "47092c84c6ec9d27972223741e6dcda605630b289b774f2109669323d583bbaa.bundle",
+      "asset_name": "assets/scenes/vr_cinema_main.unity"
+    }
+  ]
+}
